@@ -24,9 +24,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@domain.com
-author: GitHub User
+title: TechTalent-hub
+email: kj4242639@gmail.com
+author: TechTalent-hub
 
 # Copyright setting
 # You can use any html code, currently below placeholders are available:
@@ -43,9 +43,7 @@ author: GitHub User
 copyright: "Unpublished Work (cleft) 2017-{currentYear} {author}"
 
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  "TechTalentHub is your gateway to a dynamic world of opportunity in the tech industry. Whether you're a seasoned professional or just starting out, our platform connects you with a vibrant community of learners, mentors, and employers. Explore a diverse range of in-demand skills, from programming and data analysis to UX design and cybersecurity. With our cutting-edge marketplace, you can showcase your expertise, collaborate on exciting projects, and unlock new career prospects. Join us today and embark on a journey to unleash your full potential in the ever-evolving landscape of technology."
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
